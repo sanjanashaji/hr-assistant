@@ -4,7 +4,6 @@ backend/venv/
 *.py[cod]
 backend/*.pyc
 backend/.env
-backend/faiss_index/
 backend/resume_data/
 
 # Node / Frontend
