@@ -1,0 +1,17 @@
+Emma Wilson
+Full Stack Developer
+Email: emma.wilson@email.com
+
+SUMMARY
+Developer with 1 year of experience in React frontends and basic Python scripting.
+
+SKILLS
+React, JavaScript, HTML, CSS, Excel
+
+EXPERIENCE
+Junior Developer | WebStart | 2024 - Present
+- Built React components for internal tools
+- 1 year of experience in frontend development
+
+EDUCATION
+B.Tech IT | Bangalore University | 2024

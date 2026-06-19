@@ -1,0 +1,21 @@
+Carol Davis
+AI Engineer
+Email: carol.davis@email.com
+
+SUMMARY
+AI engineer with 4.5 years of experience in machine learning pipelines,
+LLM integration, Flask APIs, and cloud-native deployments.
+
+SKILLS
+Python, Machine Learning, LLM, Flask, Docker, SQL, React, Azure, Power BI
+
+EXPERIENCE
+AI Engineer | NeuralSystems | 2022 - Present
+- Developed LLM-powered HR assistant using Flask and React
+- Built ML scoring models with 4.5 years of experience in AI engineering
+
+ML Developer | CloudAI | 2020 - 2022
+- Implemented Docker-based model serving and SQL feature stores
+
+EDUCATION
+MCA | Pune University | 2020

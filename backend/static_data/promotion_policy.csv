@@ -1,0 +1,7 @@
+designation,current_band,next_band,min_rating,min_tenure
+Associate,B1,B2,4.0,2
+Executive,B1,B2,4.0,2
+Senior Executive,B2,B3,4.2,3
+Analyst,B2,B3,4.2,3
+Manager,B3,B4,4.5,4
+Senior Manager,B4,B5,4.7,5

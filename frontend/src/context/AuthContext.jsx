@@ -1,0 +1,3 @@
+token
+role
+username

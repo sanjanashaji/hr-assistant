@@ -1,0 +1,21 @@
+David Lee
+HR Executive
+Email: david.lee@email.com
+
+SUMMARY
+HR professional with 3 years of experience in recruitment, employee relations,
+and HR policy administration.
+
+SKILLS
+Flask, Spring Boot, Python, Excel, Communication
+
+EXPERIENCE
+HR Executive | PeopleFirst | 2022 - Present
+- Managed onboarding, compliance tracking, and policy rollouts
+- 3 years of experience in human resources operations
+
+HR Coordinator | TalentBridge | 2021 - 2022
+- Supported recruitment drives and employee documentation
+
+EDUCATION
+MBA HR | Delhi University | 2021

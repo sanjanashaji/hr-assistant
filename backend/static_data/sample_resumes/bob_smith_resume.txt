@@ -1,0 +1,21 @@
+Bob Smith
+Data Analyst
+Email: bob.smith@email.com
+
+SUMMARY
+Analytical professional with 2 years of experience in data reporting,
+Power BI dashboards, and SQL-based analytics for business teams.
+
+SKILLS
+Power BI, SQL, Excel, Python, React
+
+EXPERIENCE
+Data Analyst | AnalyticsHub | 2023 - Present
+- Created Power BI reports for HR and finance stakeholders
+- 2 years of experience in business intelligence
+
+Junior Analyst | DataWorks | 2022 - 2023
+- Built Excel models and SQL queries for monthly KPI tracking
+
+EDUCATION
+BCA | Mumbai University | 2022

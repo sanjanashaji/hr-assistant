@@ -1,0 +1,201 @@
+candidate_id,name,email,experience_years,skills,Unnamed: 5,education,certifications
+CAND001,Holly Brown,laura73@example.net,3.2,"React, Flask, Excel, Spring Boot",,MBA,Google Data Analytics
+CAND002,Megan Edwards,prestonamanda@example.org,0.9,"Flask, Power BI, LLM",,BCA,Docker Certified Associate
+CAND003,Tyler Baker,joshuabell@example.com,3.4,"Power BI, SQL, Docker",,B.Tech,Docker Certified Associate
+CAND004,Michael Lewis,nicole33@example.org,0.5,"Power BI, Excel, React, SQL, Spring Boot",,BCA,Google Data Analytics
+CAND005,Drew Jones,shannon36@example.org,1.2,"Java, Power BI, Docker, Flask",,B.Tech,AWS Cloud Practitioner
+CAND006,Curtis Williams,melanie92@example.net,1.8,"Spring Boot, Excel, Azure, React, SQL, Machine Learning",,MBA,None
+CAND007,Jonathan Murphy,johnjennings@example.com,2.5,"React, Excel, SQL, LLM, Machine Learning",,BCA,Docker Certified Associate
+CAND008,Erin Patrick,smithshawn@example.net,5.5,"Python, Java, Spring Boot, Power BI, Docker",,B.Tech,Docker Certified Associate
+CAND009,Samantha Watson,njohnston@example.net,7.2,"Flask, Excel, Power BI, Java, LLM, Python",,BCA,AWS Cloud Practitioner
+CAND010,Jeffrey Moreno,kathleenleblanc@example.net,5.3,"Spring Boot, Azure, Flask, Excel, Power BI, Python",,B.Tech,Azure Fundamentals
+CAND011,Lisa Cole,sherry12@example.net,4.6,"SQL, Docker, Azure, Machine Learning, Power BI, LLM",,BCA,Microsoft Power BI Associate
+CAND012,Christine Mendoza,regina12@example.com,3.5,"Java, SQL, Azure, Machine Learning",,MCA,AWS Cloud Practitioner
+CAND013,Michelle Williams,traviscarroll@example.net,6.0,"Python, Machine Learning, Flask, LLM, Docker",,B.Tech,None
+CAND014,Melissa Cohen,rnash@example.net,4.5,"Java, SQL, LLM, React",,BCA,Azure Fundamentals
+CAND015,Adam Fields,joshuagarcia@example.com,0.0,"LLM, Python, Power BI, React, Excel",,MBA,None
+CAND016,Theresa Clark,jeff90@example.com,1.2,"LLM, Azure, Docker, SQL, React, Flask",,BCA,Docker Certified Associate
+CAND017,Anthony Hill,martinezbryan@example.com,3.9,"Spring Boot, Docker, Java, Azure, Machine Learning",,M.Tech,Microsoft Power BI Associate
+CAND018,Nicholas Morris,newmannancy@example.net,1.3,"Python, Power BI, SQL, Machine Learning, React, Flask",,BCA,Docker Certified Associate
+CAND019,Samantha Smith,sarahsimmons@example.net,6.4,"Java, Flask, Azure, Python, Excel, Spring Boot",,MBA,Azure Fundamentals
+CAND020,Michael Todd,kingalyssa@example.net,6.5,"SQL, React, Java, LLM",,MCA,Google Data Analytics
+CAND021,Brian Hodge,walkerkelly@example.net,0.2,"Spring Boot, Machine Learning, LLM, Java, Excel, Azure",,MCA,AWS Cloud Practitioner
+CAND022,Chad Richards,njames@example.net,6.5,"Power BI, LLM, Java",,B.Tech,Google Data Analytics
+CAND023,William Johnson,nunezsarah@example.com,5.5,"Excel, SQL, Python, Java, React, Machine Learning",,B.Tech,Azure Fundamentals
+CAND024,Ellen Garcia,catherinemelton@example.net,4.4,"Power BI, Docker, Machine Learning, Azure, SQL, Flask",,MBA,Azure Fundamentals
+CAND025,Kimberly Allen,david97@example.com,6.5,"React, SQL, Docker",,MCA,Docker Certified Associate
+CAND026,Katie Parker,garyrivera@example.org,1.0,"Docker, Machine Learning, Flask, Spring Boot, React",,M.Tech,AWS Cloud Practitioner
+CAND027,Kimberly Berger,rachael08@example.com,7.9,"Excel, SQL, Python, Power BI, Java, Docker",,B.Tech,None
+CAND028,Pamela Henry,matthew98@example.net,5.1,"SQL, Excel, Azure, Machine Learning, Python",,MBA,Azure Fundamentals
+CAND029,Sarah Snow,emilysmith@example.net,2.1,"LLM, Python, Power BI, Excel, SQL, Azure",,MBA,Azure Fundamentals
+CAND030,Penny Cobb,silvastephanie@example.org,7.2,"Java, Power BI, Flask, SQL, Excel, Machine Learning",,B.Tech,Azure Fundamentals
+CAND031,Megan Cooley,johnsonedward@example.org,1.3,"Java, Docker, SQL",,BCA,Docker Certified Associate
+CAND032,Amy Burns,wilsonwillie@example.org,6.9,"Python, Azure, Machine Learning, Spring Boot, SQL",,M.Tech,Microsoft Power BI Associate
+CAND033,Kelly Ruiz,prattvickie@example.net,7.8,"Excel, LLM, SQL, Azure, Machine Learning",,M.Tech,AWS Cloud Practitioner
+CAND034,Shawn Mayer,stephanie33@example.org,7.1,"Java, Power BI, Excel, SQL, React",,MBA,AWS Cloud Practitioner
+CAND035,Darren Russell,okennedy@example.org,6.8,"Machine Learning, LLM, Python, Azure, Docker, Excel",,BCA,None
+CAND036,David Warren,ywilliams@example.org,2.7,"Azure, Power BI, React, Docker, Excel, Java",,B.Tech,AWS Cloud Practitioner
+CAND037,Michael Lowe,stephaniegraves@example.org,0.6,"LLM, SQL, Excel",,B.Tech,AWS Cloud Practitioner
+CAND038,Lynn Chavez,paigemiller@example.net,4.4,"Machine Learning, Java, Flask, Spring Boot, SQL",,MCA,None
+CAND039,Kathy Olson,jessica33@example.net,6.8,"LLM, Flask, React, Power BI, Azure, Docker",,MCA,Microsoft Power BI Associate
+CAND040,Donald Houston,brian32@example.org,5.3,"Azure, SQL, Spring Boot, Excel, Docker, Python",,BCA,AWS Cloud Practitioner
+CAND041,Stephen Clarke,stevenhill@example.com,5.2,"Machine Learning, Java, Spring Boot",,BCA,Docker Certified Associate
+CAND042,Cynthia Ward,joneslance@example.org,4.2,"Java, Power BI, Azure, LLM, SQL, Flask",,M.Tech,AWS Cloud Practitioner
+CAND043,Matthew Jones,james55@example.org,0.5,"Azure, Machine Learning, React, Flask, Python, SQL",,B.Tech,AWS Cloud Practitioner
+CAND044,Ian Spears,agonzalez@example.org,4.7,"Java, React, SQL, Excel, LLM, Python",,B.Tech,Microsoft Power BI Associate
+CAND045,Mariah Long,jamesbrian@example.net,2.3,"React, Java, Spring Boot, Python, SQL, LLM",,B.Tech,Docker Certified Associate
+CAND046,Katherine Thomas,bakerdavid@example.net,0.0,"LLM, Machine Learning, Docker",,MBA,Microsoft Power BI Associate
+CAND047,Jennifer Day MD,reginamiddleton@example.com,7.6,"Docker, Python, LLM, Flask, Machine Learning, Azure",,M.Tech,Microsoft Power BI Associate
+CAND048,Valerie Contreras,deborahkennedy@example.com,1.0,"React, Azure, LLM, Flask",,BCA,Azure Fundamentals
+CAND049,Janice Ross,joel47@example.net,2.5,"Docker, LLM, Azure",,BCA,Microsoft Power BI Associate
+CAND050,Nicole Graham,austinpatricia@example.net,2.4,"SQL, Docker, Machine Learning, Python, Flask, Azure",,MBA,Google Data Analytics
+CAND051,Melissa Turner,robertelliott@example.net,5.9,"Python, Power BI, LLM, Spring Boot",,M.Tech,Google Data Analytics
+CAND052,Megan Cochran,ericahicks@example.org,7.4,"Docker, Java, Machine Learning, React, Spring Boot, Excel",,BCA,None
+CAND053,Brandon Moore,powelljoan@example.com,2.1,"Flask, Machine Learning, React, LLM, Docker, Java",,BCA,AWS Cloud Practitioner
+CAND054,Christopher Weaver,annagonzalez@example.net,6.8,"Excel, Python, Machine Learning, React, SQL",,BCA,Google Data Analytics
+CAND055,Jeanne Massey,laura51@example.org,2.3,"SQL, Power BI, Spring Boot, Flask",,B.Tech,Google Data Analytics
+CAND056,Brian Griffith,brookschristopher@example.org,1.8,"React, Python, Excel, Azure",,M.Tech,Azure Fundamentals
+CAND057,Sarah Thompson,anthonychristensen@example.net,6.6,"Flask, Spring Boot, Azure, Machine Learning, Docker",,B.Tech,Azure Fundamentals
+CAND058,Keith Thompson,jasmine54@example.com,6.6,"Flask, Machine Learning, LLM",,BCA,Microsoft Power BI Associate
+CAND059,Sean House,vchang@example.com,6.6,"Machine Learning, React, Excel, Spring Boot, SQL",,MCA,Microsoft Power BI Associate
+CAND060,Laura Juarez,andrewpatterson@example.org,1.5,"SQL, LLM, Flask, Python, Docker, Power BI",,M.Tech,Docker Certified Associate
+CAND061,Ryan Vasquez,lhopkins@example.com,4.0,"React, Docker, SQL",,M.Tech,AWS Cloud Practitioner
+CAND062,Dan Watts,kimestrada@example.com,2.2,"Excel, Java, React",,MCA,Google Data Analytics
+CAND063,Sarah Garcia,lhopkins@example.com,7.0,"Azure, Java, Spring Boot, Machine Learning",,BCA,Docker Certified Associate
+CAND064,George Smith,sarah45@example.net,0.7,"Java, Machine Learning, SQL, Power BI, Flask, Azure",,M.Tech,AWS Cloud Practitioner
+CAND065,Jason Sanders,schroederscott@example.net,7.8,"SQL, React, Docker, LLM, Power BI, Azure",,MBA,AWS Cloud Practitioner
+CAND066,Amy Simpson,clarkewalter@example.org,4.4,"Java, Spring Boot, SQL, Excel, Docker, Machine Learning",,M.Tech,None
+CAND067,Laura Porter,cclark@example.net,0.2,"Power BI, Machine Learning, Azure",,M.Tech,Docker Certified Associate
+CAND068,Angela Jordan,owenpatricia@example.net,3.3,"Excel, Flask, Power BI",,MCA,Azure Fundamentals
+CAND069,Aaron Oliver,mary69@example.net,7.6,"Flask, Azure, Docker, React, Python, SQL",,B.Tech,Azure Fundamentals
+CAND070,Bruce Porter,kgarner@example.net,2.5,"Excel, Docker, Power BI, SQL, Machine Learning",,MBA,Microsoft Power BI Associate
+CAND071,Ashley Callahan,beverly00@example.com,0.3,"Docker, Java, Excel, Azure, Python",,BCA,Azure Fundamentals
+CAND072,Alexis Miller,roykatrina@example.com,4.5,"Flask, Java, React",,B.Tech,Azure Fundamentals
+CAND073,Joseph Johnson,uwilliams@example.org,5.0,"Power BI, SQL, React, Spring Boot",,MCA,Microsoft Power BI Associate
+CAND074,Dr. Ashley Brown DDS,xfrye@example.net,7.5,"Docker, Python, Flask, Java, Azure, LLM",,MCA,Google Data Analytics
+CAND075,Anna Lambert,ramirezvincent@example.com,4.7,"Python, Power BI, Flask",,BCA,Google Data Analytics
+CAND076,Dr. Jessica Hall,walterwilson@example.com,1.6,"Python, Docker, Azure, Power BI, Flask",,MCA,Google Data Analytics
+CAND077,Robert Cruz,vwatkins@example.com,4.3,"Excel, Java, Docker, React",,M.Tech,Docker Certified Associate
+CAND078,John Brooks,fkennedy@example.net,4.2,"Flask, Excel, SQL, Spring Boot, LLM, Power BI",,M.Tech,Google Data Analytics
+CAND079,Katherine Erickson,brandonschneider@example.org,7.7,"Excel, Power BI, Spring Boot, React, Machine Learning, Flask",,MBA,Microsoft Power BI Associate
+CAND080,Karen Bryant,rguzman@example.org,2.5,"Azure, React, SQL, LLM",,M.Tech,None
+CAND081,Micheal Marquez,pwilliams@example.org,0.5,"LLM, SQL, Java, Excel, React, Spring Boot",,MCA,Docker Certified Associate
+CAND082,Sheri Lopez,choffman@example.com,5.9,"Power BI, Excel, Machine Learning",,BCA,Google Data Analytics
+CAND083,Jamie Bridges,jgonzales@example.org,7.2,"Flask, Spring Boot, Excel",,MCA,Google Data Analytics
+CAND084,Amber Henderson,inovak@example.com,6.0,"Excel, Spring Boot, Machine Learning, React",,M.Tech,Docker Certified Associate
+CAND085,Mark Wong,valeriebishop@example.org,2.3,"React, Power BI, Python, LLM, SQL",,M.Tech,Google Data Analytics
+CAND086,Karina Davis,tracybrooks@example.org,7.6,"Docker, SQL, LLM, Java",,B.Tech,Google Data Analytics
+CAND087,Kenneth Garcia,alexandria73@example.net,3.9,"Spring Boot, Azure, Power BI, Python, Excel, Flask",,MCA,Google Data Analytics
+CAND088,Christopher Hampton,adamholmes@example.com,1.5,"Excel, SQL, Python",,MCA,Google Data Analytics
+CAND089,Gina Wilkins,martin58@example.org,7.6,"Spring Boot, Power BI, Docker",,MCA,Google Data Analytics
+CAND090,Angelica Sullivan,carolyn87@example.net,4.4,"React, Power BI, Spring Boot, Machine Learning",,MCA,Microsoft Power BI Associate
+CAND091,Peter Roberts,michelleali@example.com,4.8,"Docker, Flask, Power BI",,MBA,Azure Fundamentals
+CAND092,Dylan Valdez,meadowsjohn@example.com,4.2,"Spring Boot, Machine Learning, React, Excel",,B.Tech,Azure Fundamentals
+CAND093,Jackie Ryan,mcgeedavid@example.org,0.3,"Docker, Java, LLM, Python, Flask",,M.Tech,Docker Certified Associate
+CAND094,Catherine Hardy,qramsey@example.org,0.0,"SQL, Python, Docker, Power BI, Flask",,BCA,AWS Cloud Practitioner
+CAND095,Sandra Blankenship,gordonjason@example.com,3.6,"Spring Boot, Docker, Power BI, React, Machine Learning",,MBA,Azure Fundamentals
+CAND096,Patricia Arias,arellanojustin@example.org,5.1,"Power BI, SQL, Machine Learning, Flask",,MCA,None
+CAND097,Andrea Galvan,christopher22@example.org,3.2,"SQL, Docker, Azure, Python",,MCA,AWS Cloud Practitioner
+CAND098,Seth Mccarthy,joseph25@example.net,5.2,"Python, Java, LLM, Excel, Spring Boot, Azure",,B.Tech,AWS Cloud Practitioner
+CAND099,Gregory Dawson,jasminemiller@example.net,6.2,"Java, Power BI, Python, Excel",,MBA,AWS Cloud Practitioner
+CAND100,Mrs. Stephanie Pena MD,bobbylewis@example.org,4.9,"Power BI, LLM, Docker, React, Flask",,MCA,None
+CAND101,Jimmy Young,beltranjamie@example.net,3.8,"Flask, Java, Azure, Machine Learning",,B.Tech,Google Data Analytics
+CAND102,Jonathan Atkinson,kimberly05@example.org,4.1,"Docker, Spring Boot, LLM, Java, React, Machine Learning",,M.Tech,AWS Cloud Practitioner
+CAND103,Nicholas Jackson,lconway@example.net,1.5,"Docker, LLM, Flask, Machine Learning",,MCA,Google Data Analytics
+CAND104,Julie Barrett,abell@example.net,2.8,"Docker, Azure, Excel, SQL, Python, React",,BCA,Azure Fundamentals
+CAND105,Keith Robinson,jennifer46@example.org,7.1,"Power BI, LLM, Python",,BCA,Docker Certified Associate
+CAND106,Eric Cain,baileyleslie@example.com,5.0,"React, Azure, LLM, Flask",,MBA,Microsoft Power BI Associate
+CAND107,Virginia Ellis,katherinechavez@example.org,0.4,"Excel, Flask, SQL, Spring Boot, Python",,BCA,Docker Certified Associate
+CAND108,Nicole Sloan,jonesdaniel@example.net,2.0,"Java, LLM, Machine Learning, Power BI, Excel",,MBA,Azure Fundamentals
+CAND109,Hannah Little,otyler@example.net,2.1,"React, Flask, Python, Docker, Machine Learning, Java",,MCA,Google Data Analytics
+CAND110,Mark Moreno,michaelfarley@example.org,5.5,"Excel, Python, Power BI",,M.Tech,Google Data Analytics
+CAND111,Anthony Guerra,glawrence@example.net,5.0,"Java, Spring Boot, Power BI, Excel, Machine Learning",,BCA,Azure Fundamentals
+CAND112,Paul Bush,markhogan@example.com,0.7,"Spring Boot, Power BI, Docker, Flask, Java, Machine Learning",,B.Tech,None
+CAND113,Christine Johnson,hartmichael@example.net,2.2,"LLM, Machine Learning, Docker",,BCA,Docker Certified Associate
+CAND114,William Abbott,otorres@example.org,6.6,"Java, Machine Learning, Excel, LLM, Power BI, Flask",,M.Tech,Google Data Analytics
+CAND115,Thomas Bradshaw,timothywilkins@example.org,4.6,"Machine Learning, Excel, Power BI, LLM",,MBA,None
+CAND116,Jose Macdonald,jessica99@example.net,6.6,"Spring Boot, Java, React",,MBA,Microsoft Power BI Associate
+CAND117,Jeffrey Vasquez,qerickson@example.org,1.3,"Spring Boot, Docker, Java, SQL",,MBA,Docker Certified Associate
+CAND118,Robert Brown,thomashicks@example.net,0.3,"Power BI, Azure, Spring Boot, Machine Learning, LLM, SQL",,M.Tech,None
+CAND119,Caitlyn Juarez,susanhebert@example.net,3.3,"Java, Machine Learning, LLM, Flask, Azure",,MCA,Google Data Analytics
+CAND120,Devon Clark,margaretreed@example.com,6.2,"Java, SQL, Flask, Power BI",,M.Tech,Microsoft Power BI Associate
+CAND121,Christine Miller,elizabeth26@example.net,1.9,"Java, Excel, Docker",,B.Tech,Azure Fundamentals
+CAND122,Elizabeth Davis,dennis19@example.net,0.4,"Machine Learning, Excel, Docker, Azure, LLM, Spring Boot",,MBA,Azure Fundamentals
+CAND123,Elizabeth Hines,jenniferfox@example.org,1.3,"Power BI, Flask, Azure, Spring Boot, React, LLM",,MCA,Docker Certified Associate
+CAND124,Jeremy Clayton,kwilkinson@example.com,0.9,"Power BI, React, Azure, Python, Spring Boot, Machine Learning",,M.Tech,Microsoft Power BI Associate
+CAND125,Heather Butler,daniel18@example.net,5.7,"Docker, Azure, Java, Flask, Excel",,B.Tech,Microsoft Power BI Associate
+CAND126,Stacey Perkins,wendybright@example.com,4.1,"Machine Learning, Docker, SQL",,M.Tech,AWS Cloud Practitioner
+CAND127,Ricardo Hall,frostmargaret@example.com,7.3,"Java, Flask, LLM, Docker, SQL, Excel",,MBA,None
+CAND128,David Perez,michaelwarner@example.org,0.2,"LLM, Python, Azure, React, Excel, Flask",,MCA,Docker Certified Associate
+CAND129,Joshua Porter,ryan59@example.org,7.3,"Azure, Flask, Machine Learning, SQL",,BCA,Google Data Analytics
+CAND130,Amy Underwood,melissa26@example.org,7.2,"Spring Boot, Java, Power BI, SQL, Flask",,BCA,Azure Fundamentals
+CAND131,Julie Ware,mitchell30@example.org,6.1,"SQL, LLM, Machine Learning, Spring Boot, Python",,BCA,None
+CAND132,Cindy Smith,wfrancis@example.org,2.2,"Java, Python, Excel, Machine Learning, React, SQL",,MBA,None
+CAND133,Steven Martinez,nschneider@example.org,6.6,"Machine Learning, Flask, React, LLM, SQL",,MCA,None
+CAND134,Eric Riggs,bscott@example.net,6.7,"Power BI, React, Machine Learning, SQL, Spring Boot, Excel",,BCA,Docker Certified Associate
+CAND135,Kenneth Peck,rtaylor@example.com,3.5,"Flask, Python, Docker, Java, Excel, React",,MBA,None
+CAND136,Patrick Potter,uwilliams@example.net,7.3,"Excel, SQL, Spring Boot",,B.Tech,Microsoft Power BI Associate
+CAND137,Cassie Melendez,sharon03@example.com,5.0,"Spring Boot, Docker, React",,MBA,Azure Fundamentals
+CAND138,Ashley Allen,stephanie43@example.com,5.5,"LLM, Java, Spring Boot",,MCA,Microsoft Power BI Associate
+CAND139,Amy Davis,anna04@example.com,4.6,"SQL, Power BI, Excel, Spring Boot, Machine Learning",,B.Tech,None
+CAND140,Thomas Long,gibbsgeorge@example.org,2.2,"Excel, Machine Learning, Java, Docker, Spring Boot, SQL",,MBA,Docker Certified Associate
+CAND141,Susan Smith,mark50@example.com,3.4,"Python, Docker, LLM, Power BI",,MBA,None
+CAND142,Andrea Nelson,shannon97@example.com,6.3,"Excel, Power BI, LLM, Spring Boot, Python, Flask",,M.Tech,Microsoft Power BI Associate
+CAND143,Jennifer Bass,robert71@example.com,6.2,"Java, Docker, Python, Spring Boot, React, SQL",,BCA,Docker Certified Associate
+CAND144,Shannon Harrison,hgreen@example.com,7.3,"Python, Flask, Machine Learning, SQL, Spring Boot",,MCA,AWS Cloud Practitioner
+CAND145,David Kelly,francisjesse@example.net,2.0,"Azure, Power BI, SQL, React, Spring Boot",,B.Tech,None
+CAND146,Michael Garcia,brittanyfisher@example.com,7.4,"Excel, React, Machine Learning, Spring Boot, Java, Azure",,MBA,Azure Fundamentals
+CAND147,Joanna Flores,markhenderson@example.net,1.6,"Flask, Docker, Machine Learning, Java",,M.Tech,None
+CAND148,Stephen Morris,maysharon@example.net,2.6,"Power BI, React, Azure, Java, Spring Boot",,MCA,Google Data Analytics
+CAND149,Tina Mccarthy,smithbreanna@example.net,1.2,"Excel, React, Spring Boot",,BCA,Azure Fundamentals
+CAND150,Wayne Zimmerman,burnsjon@example.net,0.9,"LLM, Azure, Excel, Java, Machine Learning, Flask",,B.Tech,None
+CAND151,Sandra Sanders,bjackson@example.com,1.5,"LLM, Python, SQL, Excel, Power BI, React",,M.Tech,None
+CAND152,Henry Watkins,christian49@example.com,2.9,"React, Flask, Excel, Spring Boot",,MBA,AWS Cloud Practitioner
+CAND153,Kimberly Perez,nicolebrown@example.net,5.9,"Excel, Java, Power BI, Spring Boot",,BCA,Microsoft Power BI Associate
+CAND154,Brandi Gardner,carrieswanson@example.net,4.7,"Power BI, Docker, Java, Spring Boot, SQL, Python",,BCA,Microsoft Power BI Associate
+CAND155,Shannon Rodriguez,ianjohnston@example.org,2.7,"Flask, Docker, React, Excel, Azure, SQL",,B.Tech,Docker Certified Associate
+CAND156,Robert Murray,carterjoshua@example.net,2.9,"React, Java, Excel, Docker",,M.Tech,Docker Certified Associate
+CAND157,William Wright MD,hvargas@example.org,3.9,"Excel, Flask, Machine Learning, Power BI",,BCA,AWS Cloud Practitioner
+CAND158,Renee Meyer,sotowesley@example.com,6.6,"Power BI, Docker, LLM, SQL, Machine Learning",,MCA,None
+CAND159,Jonathan Ibarra,davisbriana@example.net,4.1,"Spring Boot, Python, SQL, Java, Docker, Flask",,M.Tech,AWS Cloud Practitioner
+CAND160,Tiffany Carter,drodriguez@example.com,4.8,"LLM, SQL, Flask, Java, Machine Learning, Power BI",,B.Tech,Microsoft Power BI Associate
+CAND161,Nicholas Hoffman,nmurray@example.com,2.9,"Flask, React, Machine Learning, Spring Boot, Power BI",,MCA,Microsoft Power BI Associate
+CAND162,Christopher Mclaughlin,vincentkevin@example.com,6.5,"LLM, Docker, Spring Boot",,B.Tech,Docker Certified Associate
+CAND163,Jimmy Adams,kristylove@example.com,3.9,"LLM, Power BI, Java, Flask, Machine Learning",,MBA,Microsoft Power BI Associate
+CAND164,Renee Martin,zadams@example.net,1.5,"Azure, Machine Learning, Docker, LLM, Flask",,MCA,Azure Fundamentals
+CAND165,Joseph Livingston,ytorres@example.com,4.1,"Spring Boot, Azure, Power BI, Python, Docker, LLM",,M.Tech,Azure Fundamentals
+CAND166,John Keller,davidbaker@example.org,4.7,"Machine Learning, LLM, Power BI, Java",,MBA,Microsoft Power BI Associate
+CAND167,Shane Doyle,ischmitt@example.com,0.9,"Azure, Excel, LLM, React",,M.Tech,Docker Certified Associate
+CAND168,Debbie Beck,ian88@example.com,4.5,"Spring Boot, Python, Excel, Azure",,M.Tech,AWS Cloud Practitioner
+CAND169,Mary Cooper,lloydjohn@example.com,0.0,"React, Docker, LLM, Spring Boot",,BCA,None
+CAND170,Gary Harris,brentrobinson@example.net,7.2,"Azure, Machine Learning, Power BI, Docker, React, Flask",,B.Tech,AWS Cloud Practitioner
+CAND171,Scott Booker,qcole@example.net,5.7,"Flask, Spring Boot, Machine Learning, LLM, Power BI, Azure",,B.Tech,None
+CAND172,Jesse Shaw,henrypark@example.com,0.3,"Spring Boot, LLM, Java",,B.Tech,Docker Certified Associate
+CAND173,Samantha Ruiz,nhoward@example.org,6.3,"Azure, React, Docker, Excel, Python",,MCA,None
+CAND174,Aaron Wood,nmorrison@example.net,1.7,"Power BI, Flask, Azure, Java, Docker",,B.Tech,Microsoft Power BI Associate
+CAND175,Christopher Copeland,damonlowe@example.net,3.5,"Machine Learning, Docker, Flask",,BCA,Microsoft Power BI Associate
+CAND176,Rebecca Chambers,meyeryvette@example.com,1.3,"Flask, Docker, SQL, Spring Boot, Python",,B.Tech,Google Data Analytics
+CAND177,Calvin Gonzales,evansmegan@example.net,7.7,"React, Docker, Azure",,MCA,Google Data Analytics
+CAND178,Ashley Barajas,ilee@example.net,2.0,"LLM, Azure, SQL, React, Power BI, Flask",,B.Tech,Google Data Analytics
+CAND179,Shelby Harmon,williamwilliams@example.org,3.6,"Azure, SQL, Java, Machine Learning, Docker, Power BI",,BCA,AWS Cloud Practitioner
+CAND180,Stephanie Oneal,maryedwards@example.com,3.3,"React, Excel, Flask",,M.Tech,Docker Certified Associate
+CAND181,Randall Davis,samuel93@example.net,0.9,"React, Azure, Spring Boot",,BCA,AWS Cloud Practitioner
+CAND182,Douglas Wells,markedwards@example.com,2.9,"Power BI, Spring Boot, Azure, SQL, LLM",,MCA,Microsoft Power BI Associate
+CAND183,Jason Crosby,dkelly@example.com,0.6,"Flask, Machine Learning, Python, LLM, Java, Docker",,MBA,None
+CAND184,Lisa Maldonado,steven51@example.net,4.1,"Flask, LLM, Docker, Excel, React",,MBA,AWS Cloud Practitioner
+CAND185,Carly Jones,briancalhoun@example.org,6.0,"Excel, Flask, React",,M.Tech,AWS Cloud Practitioner
+CAND186,Ashley Daugherty,lcarr@example.net,1.4,"SQL, Spring Boot, Python, Docker",,MBA,Docker Certified Associate
+CAND187,Jonathan Walker,bradleylang@example.net,1.9,"SQL, Spring Boot, Java, React, Power BI",,MCA,Microsoft Power BI Associate
+CAND188,Alexa Charles,ricky94@example.com,6.7,"Spring Boot, Flask, React, Power BI, LLM",,BCA,None
+CAND189,Jonathan Ortiz,tmorales@example.net,7.4,"Azure, Java, LLM",,B.Tech,None
+CAND190,Lisa Espinoza,jacobsimmons@example.com,6.8,"Machine Learning, SQL, LLM, Spring Boot, Flask, Java",,B.Tech,None
+CAND191,Mr. Edward Bishop,devin80@example.org,5.1,"Java, Machine Learning, Python, Spring Boot, Power BI",,M.Tech,Google Data Analytics
+CAND192,Matthew Chen,matthewmartin@example.com,6.3,"Azure, LLM, Excel",,M.Tech,AWS Cloud Practitioner
+CAND193,Robert Singh,stephen32@example.com,1.0,"LLM, Spring Boot, Excel",,M.Tech,Docker Certified Associate
+CAND194,Karen Smith,lori00@example.net,4.7,"Spring Boot, Python, Flask",,MBA,Microsoft Power BI Associate
+CAND195,Randall Jarvis,armstrongcharles@example.org,2.4,"Excel, Docker, Machine Learning, Python",,B.Tech,Google Data Analytics
+CAND196,Nicole Flowers,brooksmary@example.net,5.0,"Spring Boot, Python, SQL, React, Machine Learning, Flask",,BCA,AWS Cloud Practitioner
+CAND197,Dale Diaz,kylefrancis@example.com,1.3,"React, Machine Learning, Docker, Excel",,M.Tech,Docker Certified Associate
+CAND198,Michelle Martin,preynolds@example.net,6.0,"Python, Flask, Docker, Java, SQL, LLM",,B.Tech,None
+CAND199,Kelsey Haney,shannonmoore@example.net,2.8,"Spring Boot, Machine Learning, Excel, Python",,M.Tech,Microsoft Power BI Associate
+CAND200,Gary Robinson,beth52@example.org,6.6,"SQL, React, Python",,MBA,None

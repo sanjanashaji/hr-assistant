@@ -1,0 +1,24 @@
+Alice Johnson
+Software Engineer
+Email: alice.johnson@email.com | Phone: +91 9876543210
+
+PROFESSIONAL SUMMARY
+Software engineer with 5 years of experience building scalable web applications
+using React, Python, Flask, and SQL. Strong background in API development,
+Docker deployment, and agile delivery.
+
+SKILLS
+React, Python, Flask, SQL, Docker, Java, Spring Boot, Machine Learning, Azure
+
+EXPERIENCE
+Senior Software Engineer | TechCorp | 2021 - Present
+- Built React dashboards and Flask REST APIs for HR analytics platform
+- Deployed services using Docker and Azure with 99.9% uptime
+- 5 years of experience in full-stack development
+
+Software Developer | InnovateLabs | 2019 - 2021
+- Developed Java and Spring Boot microservices
+- Optimized SQL queries reducing report generation time by 40%
+
+EDUCATION
+B.Tech Computer Science | IIT Delhi | 2019
