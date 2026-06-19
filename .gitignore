@@ -1,6 +1,7 @@
 # Python / Backend
 backend/venv/
-backend/__pycache__/
+**/__pycache__/
+*.py[cod]
 backend/*.pyc
 backend/.env
 backend/faiss_index/

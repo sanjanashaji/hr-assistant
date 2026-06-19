@@ -1,6 +1,7 @@
 
 from flask import Flask, jsonify
 from flask_cors import CORS
+import os
 
 # ----------------------------------
 # Route Imports
@@ -34,37 +35,12 @@ app = Flask(__name__)
 # CORS
 # ----------------------------------
 
-CORS(
-    app,
-    resources={
-        r"/*": {
-            "origins": [
-                "http://localhost:5173",
-                "http://127.0.0.1:5173"
-            ]
-        }
-    }
-)
-
-@app.after_request
-def after_request(response):
-
-    response.headers.add(
-        "Access-Control-Allow-Origin",
-        "*"
-    )
-
-    response.headers.add(
-        "Access-Control-Allow-Headers",
-        "Content-Type,Authorization"
-    )
-
-    response.headers.add(
-        "Access-Control-Allow-Methods",
-        "GET,PUT,POST,DELETE,OPTIONS"
-    )
-
-    return response
+allowed_origins = [
+    origin.strip()
+    for origin in os.getenv("CORS_ORIGINS", "*").split(",")
+    if origin.strip()
+]
+CORS(app, resources={r"/*": {"origins": allowed_origins}})
 
 
 # ----------------------------------
@@ -123,7 +99,7 @@ def health():
             "backend": "Flask",
             "database": "MySQL",
             "vector_store": "FAISS",
-            "llm": "Qwen 2.5",
+            "llm": "Groq",
 
             "modules": [
                 "HR Chatbot",
@@ -174,7 +150,7 @@ if __name__ == "__main__":
     print("URL         : http://127.0.0.1:5000")
     print("Database    : MySQL")
     print("Vector DB   : FAISS")
-    print("LLM         : Qwen 2.5 (Ollama)")
+    print("LLM         : Groq")
 
     print("\nEnabled Modules:")
     print("1. HR Chatbot")
@@ -187,7 +163,7 @@ if __name__ == "__main__":
 
     app.run(
         host="0.0.0.0",
-        port=5000,
-        debug=True
+        port=int(os.getenv("PORT", "5000")),
+        debug=os.getenv("FLASK_DEBUG", "false").lower() == "true"
     )
 

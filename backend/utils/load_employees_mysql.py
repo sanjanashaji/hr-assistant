@@ -1,15 +1,8 @@
 import pandas as pd
-import mysql.connector
 from mysql.connector import Error
+from database.db import get_connection
 
 CSV_FILE = "static_data/employees.csv"
-
-DB_CONFIG = {
-    "host": "localhost",
-    "user": "root",
-    "password": "Nous@12345",
-    "database": "hr_assistant"
-}
 
 
 def safe_float(value):
@@ -34,7 +27,7 @@ try:
 
     print(f"Rows Found: {len(df)}")
 
-    connection = mysql.connector.connect(**DB_CONFIG)
+    connection = get_connection()
 
     cursor = connection.cursor()
 

@@ -1,5 +1,6 @@
 import { useEffect, useState, useMemo } from "react";
 import axios from "axios";
+import { API_BASE } from "../config/api";
 import {
   FaIdCard,
   FaFileContract,
@@ -8,8 +9,6 @@ import {
   FaExclamationTriangle,
   FaFilter
 } from "react-icons/fa";
-
-const API_BASE = "http://127.0.0.1:5000";
 
 const DOC_ICONS = {
   PAN: FaIdCard,

@@ -1,5 +1,6 @@
 import { useState } from "react";
 import axios from "axios";
+import { API_BASE } from "../config/api";
 
 function CandidateRanking() {
 
@@ -9,7 +10,7 @@ function CandidateRanking() {
   const fetchRanking = async () => {
 
     const res = await axios.get(
-      `http://127.0.0.1:5000/candidate-ranking/${jobId}`
+      `${API_BASE}/candidate-ranking/${jobId}`
     );
 
     setResult(res.data);

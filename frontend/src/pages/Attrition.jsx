@@ -1,5 +1,6 @@
 import { useState } from "react";
 import axios from "axios";
+import { API_BASE } from "../config/api";
 import {
   FaUserShield,
   FaExclamationTriangle,
@@ -9,8 +10,6 @@ import {
   FaMoneyBillWave,
   FaClock
 } from "react-icons/fa";
-
-const API_BASE = "http://127.0.0.1:5000";
 
 const RISK_COLORS = {
   High: "text-red-400",

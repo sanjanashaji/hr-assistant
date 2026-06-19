@@ -4,7 +4,7 @@ from services.query_router import is_employee_query
 from services.employee_service import get_employee_answer
 from rag.retriever import retrieve_context
 from llm.prompt_template import build_prompt
-from llm.ollama_client import generate_response
+from llm.groq_client import generate_response
 
 chat_bp = Blueprint(
     "chat",

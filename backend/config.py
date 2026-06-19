@@ -1,22 +1,30 @@
 import os
+from dotenv import load_dotenv
 
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
+load_dotenv(os.path.join(BASE_DIR, ".env"))
 
 # ==========================================
 # MYSQL
 # ==========================================
 
-MYSQL_HOST = "localhost"
-MYSQL_USER = "root"
-MYSQL_PASSWORD = "Nous@12345"
-MYSQL_DATABASE = "hr_assistant"
+DATABASE_URL = os.getenv("DATABASE_URL")
+MYSQL_HOST = os.getenv("MYSQL_HOST", "localhost")
+MYSQL_PORT = int(os.getenv("MYSQL_PORT", "3306"))
+MYSQL_USER = os.getenv("MYSQL_USER", "root")
+MYSQL_PASSWORD = os.getenv("MYSQL_PASSWORD", "")
+MYSQL_DATABASE = os.getenv("MYSQL_DATABASE", "hr_assistant")
 
 # ==========================================
-# OLLAMA
+# GROQ
 # ==========================================
 
-OLLAMA_URL = "http://localhost:11434/api/generate"
-OLLAMA_MODEL = "qwen2.5:latest"
+GROQ_API_KEY = os.getenv("GROQ_API_KEY", "")
+GROQ_API_URL = os.getenv(
+    "GROQ_API_URL",
+    "https://api.groq.com/openai/v1/chat/completions"
+)
+GROQ_MODEL = os.getenv("GROQ_MODEL", "llama-3.3-70b-versatile")
 
 # ==========================================
 # VECTOR DB

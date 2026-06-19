@@ -1,13 +1,12 @@
 import { useEffect, useState } from "react";
 import axios from "axios";
+import { API_BASE } from "../config/api";
 import {
   FaCalendarAlt,
   FaBuilding,
   FaUsers,
   FaClipboardList
 } from "react-icons/fa";
-
-const API_BASE = "http://127.0.0.1:5000";
 
 function LeaveAnalytics() {
 
